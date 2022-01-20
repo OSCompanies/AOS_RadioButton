@@ -36,6 +36,16 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+//        rbEngland.text = "영국"
+//        rbEngland.isChecked = true
+//        rbEngland.isEnabled = false
+//        rbAmerica.isClickable = false
+
+//        rbAmerica.buttonDrawable = resources.getDrawable(R.drawable.radiobutton_image_custom, null)
+
+//        rbAmerica.buttonDrawable = null
+//        rbAmerica.background = resources.getDrawable(R.drawable.radiobutton_xml_custom, null)
+
         rgCountries.setOnCheckedChangeListener { _, checkedID ->
 
             val country : String = when(checkedID) {

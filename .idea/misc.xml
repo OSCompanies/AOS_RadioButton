@@ -5,8 +5,10 @@
       <map>
         <entry key="app/src/main/res/drawable/radiobutton_shape_style.xml" value="0.114" />
         <entry key="app/src/main/res/drawable/radiobutton_style.xml" value="0.114" />
+        <entry key="app/src/main/res/drawable/radiobutton_text_custom.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/radiobutton_xml_custom.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/selector_radiobutton_text.xml" value="0.114" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
       </map>
     </option>
   </component>
